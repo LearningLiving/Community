@@ -4,8 +4,8 @@
       <title>This page is for testing in-development stuff</title>
    </head>
    <body>
-      <form>
-         <input type = "file" name = "upload" accept = "image/*" action="/Community/image_library" method="post"/>
+      <form enctype="multipart/form-data" action="/Community/image_library" method="post">
+         <input type = "file" name = "upload" accept = "image/*"/>
          <input type="submit" value="Submit">
       </form>
    </body>
