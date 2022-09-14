@@ -1,5 +1,6 @@
 header {
     background-image: url("/Community/france.png");
+    background-repeat: space;
     height: 300px;
     border: 5px solid #000000;
     flex-wrap: wrap;
