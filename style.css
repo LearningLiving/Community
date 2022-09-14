@@ -1,7 +1,7 @@
 header {
     background-image: url("/Community/france.png");
     height: 300px;
-    border: 1px solid #c3c3c3;
+    border: 5px solid #000000;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
