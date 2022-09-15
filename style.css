@@ -1,12 +1,14 @@
 header {
-    background-image: url("/Community/france.jpeg");
+    background-image: url("france.jpeg");
     background-size: 100% auto;
-    height: 300px;
+    height: 50%;
     border: 5px solid #000000;
     flex-wrap: wrap;
     display: flex;
     justify-content: center;
 }
 h1 {
-    
+    font-size: 3vw;
+    padding-left: 1%;
+    padding-right: 1%
 }
