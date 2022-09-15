@@ -8,5 +8,7 @@ header {
     justify-content: center;
 }
 h1 {
-    padding: 32px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
 }
